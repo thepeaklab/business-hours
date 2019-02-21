@@ -1,0 +1,30 @@
+{
+  "name": "@thepeaklab/business-hours",
+  "version": "0.1.0",
+  "description": "An easy to use library for handling business hours.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cweise/business-hours.git"
+  },
+  "keywords": [
+    "business-hours",
+    "opening-hours",
+    "business",
+    "hours",
+    "opening",
+    "hours"
+  ],
+  "author": "Christoph Weise-Onnen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cweise/business-hours/issues"
+  },
+  "homepage": "https://github.com/cweise/business-hours#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
